@@ -1,5 +1,3 @@
-from email import contentmanager
-from urllib import response
 import requests
 
 if __name__ == '__main__':
